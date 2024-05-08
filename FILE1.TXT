@@ -1,0 +1,7 @@
+kjkjkjkABCDEfgh
+ijkl
+<<<<<<< HEAD
+=======
+hello bhumika
+HIII BHUMIII
+>>>>>>> 09ee793d7ab7efd4952aeb354c1c069268c4530c
